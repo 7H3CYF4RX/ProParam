@@ -65,7 +65,7 @@
 
 ### Option 3: Build from Source
 ```bash
-git clone https://github.com/yourusername/proparam.git
+git clone https://github.com/7H3CYF4RX//ProParam.git
 cd proparam
 gradle jar
 # Output: build/libs/proparam-1.0.0.jar
