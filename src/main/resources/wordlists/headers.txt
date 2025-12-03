@@ -1,0 +1,92 @@
+# HTTP Headers Wordlist for Discovery
+
+# Standard Headers
+Accept
+Accept-Charset
+Accept-Encoding
+Accept-Language
+Authorization
+Cache-Control
+Connection
+Content-Length
+Content-Type
+Cookie
+DNT
+Host
+If-Modified-Since
+If-None-Match
+Origin
+Pragma
+Referer
+User-Agent
+
+# Forwarding Headers
+Forwarded
+X-Forwarded-For
+X-Forwarded-Host
+X-Forwarded-Proto
+X-Forwarded-Server
+X-Forwarded-Scheme
+X-Real-IP
+X-Client-IP
+X-Original-IP
+X-Originating-IP
+X-Remote-IP
+X-ProxyUser-Ip
+CF-Connecting-IP
+True-Client-IP
+
+# Host Override Headers
+X-Host
+X-HTTP-Host-Override
+X-Original-Host
+X-Forwarded-Host
+
+# URL Rewrite Headers
+X-Original-URL
+X-Rewrite-URL
+X-Original-Path
+
+# API Headers
+X-API-Key
+X-Api-Key
+API-Key
+X-Auth-Token
+X-Access-Token
+X-Session-Token
+X-CSRF-Token
+
+# Custom Headers
+X-Custom-IP-Authorization
+X-Debug
+X-Debug-Mode
+X-Development
+X-Test
+X-Testing
+X-Verbose
+X-Trace
+X-Request-ID
+X-Correlation-ID
+X-Session-ID
+X-User-ID
+
+# CDN Headers
+CF-Ray
+CF-Cache-Status
+CF-Visitor
+X-Akamai-Request-ID
+X-Edge-Location
+Fastly-Client-IP
+
+# Security Headers
+X-Frame-Options
+X-XSS-Protection
+X-Content-Type-Options
+Content-Security-Policy
+Strict-Transport-Security
+
+# Application Specific
+X-Requested-With
+X-Ajax-Request
+X-PJAX
+X-Websocket-Protocol

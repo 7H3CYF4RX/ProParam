@@ -1,0 +1,188 @@
+# Common Parameters Wordlist
+# Tier 1 + Tier 2 parameters for Advanced Param Miner
+
+# Common Web Parameters
+id
+page
+sort
+filter
+limit
+offset
+order
+search
+callback
+redirect
+url
+next
+return
+redirect_uri
+debug
+test
+admin
+key
+token
+api_key
+username
+user
+email
+password
+pass
+q
+query
+s
+keyword
+term
+category
+cat
+type
+action
+method
+file
+path
+dir
+folder
+from
+to
+start
+end
+date
+status
+state
+mode
+format
+output
+lang
+language
+locale
+country
+ref
+referer
+source
+utm_source
+utm_campaign
+utm_medium
+utm_content
+utm_term
+
+# API Parameters
+api_version
+version
+v
+access_token
+auth_token
+client_id
+client_secret
+grant_type
+scope
+oauth_token
+bearer_token
+refresh_token
+
+# Framework Specific
+# PHP
+PHPSESSID
+php_session
+
+# Java/Spring
+jsessionid
+spring_session
+
+# .NET
+aspxerrorpath
+aspxauth
+__VIEWSTATE
+__EVENTVALIDATION
+
+# Rails
+_rails_session
+authenticity_token
+
+# Django
+csrfmiddlewaretoken
+sessionid
+
+# Node.js/Express
+connect.sid
+express_session
+
+# E-commerce
+product_id
+product
+item
+cart
+cart_id
+quantity
+qty
+price
+discount
+coupon
+promo
+checkout
+
+# Search & Filtering
+min_price
+max_price
+size
+color
+brand
+rating
+in_stock
+
+# Pagination
+per_page
+items_per_page
+page_size
+page_number
+
+# Sorting
+sort_by
+order_by
+direction
+asc
+desc
+
+# Authentication
+remember_me
+stay_logged_in
+auto_login
+
+# File Operations
+filename
+upload
+download
+delete
+move
+copy
+
+# Cache Related
+no_cache
+bypass_cache
+cache_bust
+cache_key
+force_refresh
+
+# Debug & Testing
+verbose
+trace
+profiler
+benchmark
+simulate
+mock
+
+# Security Testing
+xss
+sql
+cmd
+code
+eval
+include
+require
+
+# Hidden Parameters
+_method
+_format
+_locale
+_ajax
+_async
+_pjax
+_xhr
